@@ -45,7 +45,7 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* display-name-required
+* [display-name-required](https://github.com/dimapaloskin/eslint-plugin-styled-components-config/blob/master/docs/rules/display-name-required.md)
 
 ## Author
 [Dima Pavlovsky](http://palosk.in)
