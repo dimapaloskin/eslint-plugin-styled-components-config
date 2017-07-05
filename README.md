@@ -2,6 +2,8 @@
 
 Eslint rules for styled-components config
 
+[![Build Status](https://travis-ci.org/dimapaloskin/eslint-plugin-styled-components-config.svg?branch=master)](https://travis-ci.org/dimapaloskin/eslint-plugin-styled-components-config)
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
@@ -44,3 +46,6 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * display-name-required
+
+## Author
+[Dima Pavlovsky](http://palosk.in)
